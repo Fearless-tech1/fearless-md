@@ -11,7 +11,7 @@
 
 
 ####
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FEARKESS-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEARLESS+AND+SILVA; COMING+SOON" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=90&lines=THANKS FOR CHOOSING +FEARKESS-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEARLESS+AND+SILVA; COMING+SOON" alt="Typing SVG" /></a>
   </p>
     <img alt="FEARLESS-MD" width="700" height="300" src="https://telegra.ph/file/3d2014564be481e607635.jpg">
 <p align="center">
