@@ -19,3 +19,13 @@
 <a href="https://github.com/Fearless-tech1/fearless-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fearless-tech1/fearless-md?label=Watching&style=social"></a>
 
 
+## METHODS OF DEPLOYMENT 
+
+1. HEROKU
+2. REPLIT
+3. RENDER
+4. GLITCH
+5. CODESPACE 
+6. DIGITALOCEAN
+
+
