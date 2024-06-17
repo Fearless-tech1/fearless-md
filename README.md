@@ -30,4 +30,4 @@
 
 
 *## DEPLOY ON HEROKU*
-_[HEROKU]_
+_`[HEROKU]`_
