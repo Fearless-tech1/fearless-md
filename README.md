@@ -73,19 +73,8 @@ rad.json
 #Test results file
 TestResults.xml
 
-Another WhatsApp bot with super clean code design. Written in TypeScript.
+Another WhatsApp bot with super clean code design. Written in javaScript.
 
-> Warning: non-english
-![how to create a new command, annotated using handwriting](res/readme/wleowleo.png)
-> English below  
->
->Download and send messages
-![Download and send messages](res/readme/message.gif)
->Create new commands
-![Create new commands](res/readme/command.gif)
-![Create new commands](res/readme/metadata.gif)
-> Aaaaand many more
-![Aaaaand many more](res/readme/context.gif)
 
 ## How to Contribute
 Please fork the repository and make changes as you'd like.
