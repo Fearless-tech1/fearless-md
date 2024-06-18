@@ -7,7 +7,9 @@
 ####
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&pause=1000&color=1BAFBAFF&center=true&width=810&height=90&lines=THANKS FOR CHOOSING+FEARLESS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEARLESS+AND+SILVA; COMING+SOON" alt="Typing SVG" /></a>
   </p>
+<p align="center">
     <img alt="FEARLESS-MD" width="300" height="300" src="https://telegra.ph/file/3d2014564be481e607635.jpg">
+ </p>
 <p align="center">
 <p align="center">
 <a href="https://github.com/Fearless-tech1/fearless-md"><img title="Author" src="https://img.shields.io/badge/FEARLESS_MD-black?style=for-the-badge&logo=github"></a>
