@@ -27,3 +27,23 @@
 4. GLITCH
 5. CODESPACE 
 6. DIGITALOCEAN
+
+## Setup
+---
+1.  ***Fork Repo [`CLICK HERE`](https://github.com/Fearless-tech1/fearless-md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
+### SETUP
+
+1. Scan the QR and copy it
+    <br>
+<a href='working on it' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+3. Now Deploy
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Sylivanu/fearless' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+##
