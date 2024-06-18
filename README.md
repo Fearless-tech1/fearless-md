@@ -108,7 +108,7 @@ Before running, make sure to create `.env` file in the bot folder and paste this
 ```
 MIT License
 
-Copyright (c) 2022-2023 silva
+Copyright (c) 2022-2023 fearless
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
