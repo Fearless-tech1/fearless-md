@@ -8,9 +8,9 @@ RUN apt-get update && \
   apt-get upgrade -y && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
-
-RUN git clone https://github.com/Fearless-tech1/fearless-md.git  /root/fearless
-WORKDIR /root/fearless/
+  
+RUN git clone https://github.com/Sylivanu/fearless.git  /root/Fearless
+WORKDIR /root/Fearless/
 
 
 COPY package.json .
