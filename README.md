@@ -35,9 +35,9 @@
 1.  ***Fork Repo [`CLICK HERE`](https://github.com/Fearless-tech1/fearless-md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
 ### SETUP
 
-1. Scan the QR and copy it
+Scan the QR and copy it
     <br>
-<a href='https://zokouscan-production.up.railway.app/getsession' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://suhail-md-vtsf.onrender.com/code' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=purple&labelColor=yellow&color=green'/></a>
 
 #### DEPLOY TO HEROKU 
 
