@@ -88,7 +88,7 @@ Scan the QR and copy it
 🦠| .👇👇
 ```
 # Instalasi
-* [Pair code](https://replit.com/@pesguru02/Fearless-Pairing)
+* [Pair code](https://replit.com/@pesguru02/Classic-Pairing)
 
 
 ### AL ###
