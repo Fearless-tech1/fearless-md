@@ -42,40 +42,5 @@
 
 <h2 align="center">Features</h2>
 
-## How to deploy to heroku
+* [Whatsapp Direct Message](https://api.whatsapp.com/send?phone=+46726416205)
 
-```csharp
-🦠| .You need to scan and get session using pair code
-🦠| .Upload session to { Daggerses }
-🦠| .Go to [Heroku](heroku.com) Login 
-🦠| .Create a new app
-🦠| .Add the Build packs Below 
-🦠| .👇👇
-```
-# Instalasi
-* [Pair code](https://replit.com/@pesguru02/Classic-Pairing)
-* [Heroku](  https://heroku.com/deploy?template=https://github.com/Samue-l1/Samue-l1)
-## Heroku Buildpack
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
-
-
-
-
-## Special Thanks to
-
-* [WhiskeySockets](https://github.com/WhiskeySockets)
-
-* [Mamang Adhiraj](https://github.com/adiwajshing)
-
-* [King Sam](https://github.com/Samue-l1)
-
-## Contact Me
-  
-* [Telegram](@k_i_n_g_s_a_m)
-* [Whatsapp Direct Message](https://api.whatsapp.com/send?phone=+254104301695)
-*
