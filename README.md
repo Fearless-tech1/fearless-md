@@ -53,7 +53,41 @@ Scan the QR and copy it
 1. If you don't have an account in RENDER, create one and deploy.
     <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+<h2 align="center">Guide For Those Of You Who Use Termux</h2>
 
+## Install Several Packages And Run Bots
+
+```csharp
+> git clone https://github.com/Samue-l1/Dagger-Bot
+> apt-get update -y
+> apt-get upgrade -y
+> apt-get install -y git
+> sh wibu.sh
+````
+
+<h2 align="center">Guide For Panel Users</h2>
+
+## 🖥 Go to panel and upload this Sc.
+
+ 📝 After that, extract or move it to a directory (container).
+
+ ⌨ Use the following code to move into a container: "../"
+
+ 🖨 Then go to the console and press Start, and you will get a Qr code that will be linked to WhatsApp
+
+<h2 align="center">Features</h2>
+
+## How to deploy to heroku
+
+```csharp
+🦠| .You need to scan and get session using pair code
+🦠| .Upload session to { Daggerses }
+🦠| .Go to [Heroku](heroku.com) Login 
+🦠| .Create a new app
+🦠| .Add the Build packs Below 
+🦠| .👇👇
+```
+# Instalasi
 
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
