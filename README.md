@@ -88,6 +88,8 @@ Scan the QR and copy it
 🦠| .👇👇
 ```
 # Instalasi
+* [Pair code](https://replit.com/@pesguru02/Fearless-Pairing)
+
 
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
