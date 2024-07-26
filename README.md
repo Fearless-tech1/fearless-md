@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&pause=1000&color=1BAFBAFF&center=true&width=810&height=90&lines=THANKS FOR CHOOSING+FEARLESS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+𓄂☠️🇫ᥱᥲrᥣᥱss🤴🏻𝐊i͜͡n̸𝙂🇵🇰༗;" alt="Typing SVG" /></a>
   </p>
 <p align="center">
-    <img alt="FEARLESS-MD" width="300" height="300" src="https://telegra.ph/file/3d2014564be481e607635.jpg">
+    <img alt="FEARLESS-MD" width="300" height="300" src="https://telegra.ph/file/c577f075b575566f53928.jpg">
  </p>
 <p align="center">
 <p align="center">
