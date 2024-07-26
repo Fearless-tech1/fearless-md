@@ -39,6 +39,7 @@
  ⌨ Use the following code to move into a container: "../"
 
  🖨 Then go to the console and press Start, and you will get a Qr code that will be linked to WhatsApp
+### 4. <a ></a>href="https://replit.com/github/Fearles-tech1/𓄂☠️🇫ᥱᥲrᥣᥱss🤴🏻𝐊i͜͡n̸𝙂🇵🇰༗" target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 <h2 align="center">Features</h2>
 
