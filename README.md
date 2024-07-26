@@ -5,7 +5,7 @@
 
 
 ####
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&pause=1000&color=1BAFBAFF&center=true&width=810&height=90&lines=THANKS FOR CHOOSING+FEARLESS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEARLESS+AND+SILVA; COMING+SOON" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&pause=1000&color=1BAFBAFF&center=true&width=810&height=90&lines=THANKS FOR CHOOSING+FEARLESS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+𓄂☠️🇫ᥱᥲrᥣᥱss🤴🏻𝐊i͜͡n̸𝙂🇵🇰༗;" alt="Typing SVG" /></a>
   </p>
 <p align="center">
     <img alt="FEARLESS-MD" width="300" height="300" src="https://telegra.ph/file/3d2014564be481e607635.jpg">
@@ -39,7 +39,7 @@ Scan the QR and copy it
     <br>
 <a href='https://suhail-md-vtsf.onrender.com/code' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=purple&labelColor=yellow&color=green'/></a>
 
-#### DEPLOY TO HEROKU 
+#### DEPLOY ON HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
@@ -48,7 +48,12 @@ Scan the QR and copy it
 3. Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Sylivanu/fearless' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-##
+### DEPLOY ON RENDER
+
+1. If you don't have an account in RENDER, create one and deploy.
+    <br>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+
 
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
