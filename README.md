@@ -65,7 +65,7 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/Venom-2
+git clone https://github.com/type-your-username-here/Fearless 
 ```
 ```
 cd fearless-md
